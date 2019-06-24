@@ -1,0 +1,92 @@
+html,
+body {
+	height: 100%;
+/*	overflow: hidden;*/
+}
+
+
+.main{
+	height: calc(100% - 56px);;
+}
+
+.pl-left {
+	height: 100%;
+	background-color:cornsilk;
+	margin: auto;
+	text-align: center;
+}
+
+.pl-center {
+	height: 100%;
+	padding: 0;
+	margin: auto;
+	text-align: center;
+}
+
+.pl-center-up
+{
+	background-color: darkseagreen;
+	height: 90%;
+	text-align: center;
+}
+
+.pl-center-down {
+	background-color: whitesmoke;
+	height: 10%;
+	padding: 10px;
+	text-align: center;
+}
+
+.pl-right {
+	background-color: blanchedalmond;
+	margin: auto;
+	padding:0;
+	text-align: center;
+}
+
+.pl-right-down {
+	height: 100%;
+	background-color: cornsilk;
+	text-align: center;
+}
+
+.msg{
+	padding: 20px;
+	overflow-y: auto;
+}
+
+.rooms{
+	overflow-y: auto;
+	height: 80%;
+	
+}
+/**添加样式/
+.element::-webkit-scrollbar {display:none}
+/*设置背景颜色*/
+.backgroundColor3{
+	background-color:#393d46;
+}
+.backgroundColor4{
+	background-color:#4dcca3;
+}
+.backgroundColor2{
+	background-color: #222931;
+}
+.backgroundColore{
+	background-color: #e3f4ee;
+}
+.color3{
+	color:#393d46;
+}
+.color4{
+	color:#4dcca3;
+}
+.color2{
+	color:#222931;
+}
+.border4{
+	border:1px solid #4dcca3;
+}
+.bordertop4{
+	border-top:1px solid #4dcca3;
+}
