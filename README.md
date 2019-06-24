@@ -1,5 +1,7 @@
 # SchoolAssignment_GoldPoint
-黄金点游戏-服务器（前后端）  
+黄金点游戏-服务器（前后端）    
+> 测试地址（不保证还有效）：http://goldpoint.doingtest.top/
+
   
 # 项目介绍  
 学校作业，这是一个多人在线的游戏  
